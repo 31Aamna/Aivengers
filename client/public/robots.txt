@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /create
+Disallow: /post/
+Sitemap: /sitemap.xml

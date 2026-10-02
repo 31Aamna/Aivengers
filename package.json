@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@google/genai": "^2.24.0",
+    "@supabase/ssr": "^0.12.7",
+    "@supabase/supabase-js": "^2.117.2",
+    "multer": "^2.4.0",
+    "pdf-parse": "^2.4.5"
+  }
+}

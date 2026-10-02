@@ -1,0 +1,1 @@
+{"routes":[{"path":"/","title":"Home — Techtonix"},{"path":"/create","title":"Create a Local Post — Techtonix"},{"path":"/login","title":"Login — Techtonix"},{"path":"/signup","title":"Sign up — Techtonix"},{"path":"/post/:id","title":"Post details — Techtonix"},{"path":"/privacy","title":"Privacy Policy — Techtonix"},{"path":"/terms","title":"Terms & Conditions — Techtonix"}]}

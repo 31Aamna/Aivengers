@@ -1,0 +1,3 @@
+import { Cookie } from 'lucide-react'
+import Button from './Button.jsx'
+export default function CookieConsent({ onChoice }) { return <div className="cookie-banner"><div className="cookie-icon"><Cookie size={18} /></div><div><strong>A small note on cookies</strong><p>We use essential storage for preferences and authentication. Non-essential analytics stays off unless you choose to allow it.</p></div><div className="cookie-actions"><Button variant="secondary" small onClick={() => onChoice('essential')}>Essential only</Button><Button small onClick={() => onChoice('all')}>Accept all</Button></div></div> }

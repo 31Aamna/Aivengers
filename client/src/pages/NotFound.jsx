@@ -1,0 +1,3 @@
+import { ArrowUpRight, MapPin } from 'lucide-react'
+import { Link } from 'react-router-dom'
+export default function NotFound() { return <section className="not-found-page"><div className="not-found-mark"><span>404</span><span className="not-found-pin"><MapPin size={22} /></span></div><div className="eyebrow eyebrow--dark">Page not found</div><h1>This page is not on the map.</h1><p>The link may be out of date, but there is plenty happening around you.</p><div className="not-found-actions"><Link className="button button--primary" to="/">Back to home <ArrowUpRight size={16} /></Link><Link className="button button--secondary" to="/create">Share local information</Link></div></section> }
