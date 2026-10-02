@@ -1,4 +1,4 @@
-# Techtonix 🌐
+# Smart Campus Community Platform 🌐
 
 A real-time community platform for college students to report, discuss, and track campus issues — powered by AI and interactive maps.
 
